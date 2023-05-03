@@ -1,0 +1,22 @@
+{
+  "name": "devops_docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rropetsku/devops_docker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rropetsku/devops_docker/issues"
+  },
+  "homepage": "https://github.com/rropetsku/devops_docker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
